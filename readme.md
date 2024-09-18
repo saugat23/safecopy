@@ -33,7 +33,3 @@ Safecopy is a simple file event watcher implemented in C using inotify. It monit
 
 - libnotify
 
-## Acknowledgements
-
-- Special thanks to OpenAI for providing resources and inspiration.
-
